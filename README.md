@@ -17,7 +17,7 @@ https://github.com/JpCode01/music_player/assets/165571084/c39c09d4-382e-4fc9-aab
 ## ✔️ Tecnologias
 <div style="display: inline_block">
   <img align="center" alt="jp-Python" height="80" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="django-rest" height="30" width="140" src="https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray">
+  <img align="center" alt="django-rest" height="30" width="150" src="https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray">
 </div>
 
 ## Autores
