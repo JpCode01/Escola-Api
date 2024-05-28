@@ -9,11 +9,9 @@
 ## 🔨 Funcionalidades do projeto
 
 
-
 https://github.com/JpCode01/Escola-Api/assets/165571084/b8ac4aab-cbeb-4c54-b78e-ef70060292b7
 
 https://github.com/JpCode01/music_player/assets/165571084/c39c09d4-382e-4fc9-aabf-c551a9bf9143
-
 
 
 ## ✔️ Tecnologias
@@ -21,10 +19,6 @@ https://github.com/JpCode01/music_player/assets/165571084/c39c09d4-382e-4fc9-aab
   <img align="center" alt="jp-Python" height="80" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="django-rest" height="30" width="140" src="https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray">
 </div>
-
-
-
-
 
 ## Autores
 <img loading="lazy" src="https://avatars.githubusercontent.com/u/165571084?s=400&u=1ee1c679eda8112d1334f93a326df74fda32ee1d&v=4" width=115>
